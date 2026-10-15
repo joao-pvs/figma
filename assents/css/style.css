@@ -1,0 +1,34 @@
+.inicio{
+    display:flex;
+   
+}
+
+.titulo{
+    
+}
+
+.texto{
+  
+}
+
+.botaodownload{
+    background-color: #FF6464;
+    color: white;
+    border: #FF6464;
+    width: 208px;
+    height: 47px;
+    padding: 2px;
+}
+
+.fotojohn{
+    display: flex;
+   
+}
+
+.formacoes{
+    display: flex;
+}
+
+.skills{
+    display: flex;
+}
