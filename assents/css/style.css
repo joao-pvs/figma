@@ -1,6 +1,10 @@
 .inicio{
-    display:flex;
-   
+   display:flex;
+   justify-content: space-around;
+
+   position: relative;
+   left: 150px;
+
 }
 
 .titulo{
